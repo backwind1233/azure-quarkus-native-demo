@@ -41,7 +41,11 @@ this application can be built as a native image and packaged in a container with
 ### Running locally
 
 If you configured user access for yourself in the reference environment,
-you can run the application locally with `./mvnw quarkus:dev`.
+you can run the application locally with
+
+```
+./mvnw quarkus:dev
+```
 
 ### Running in Kubernetes
 
